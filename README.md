@@ -14,3 +14,14 @@ Regarding the Python x Django Rwanda final project, i couldn't submit because th
 
 ### Commit Message Misspelled
 Well I think I've misspelled the message of the previous commit. It should have started with the type of the commit, "docs" in this case. If could I would amend it right. But I'm on using my phone to type right (... and I don't know if it's possible to do it here). Well, let's keep it as a historical mistake.
+
+## June 10, 2026
+Woooooo😧 ...its almost 3 days I haven't committed anything i n this diary. Just about 3 days on, ...what a ....
+
+Anyway, let's go on...
+
+Today 2 major events:
+- I bought my early bird ticket to PyCon Cameroon 2026 (amongst the 3 fist tickets 😎.
+- The link to submit the final project of the Python x Django Rwanda Bootcamp 2026 reopened until June 12, 2026 at 12:15 am
+
+Na wa oooooh 🙌🏾🙏🏾😎
