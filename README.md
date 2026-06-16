@@ -25,3 +25,12 @@ Today 2 major events:
 - The link to submit the final project of the Python x Django Rwanda Bootcamp 2026 reopened until June 12, 2026 at 12:15 am
 
 Na wa oooooh 🙌🏾🙏🏾😎
+
+## June 16, 2026
+
+On June 12, 2026 I create a freeCodeCamp account with which I started the Responsive Web Design Certification. This certification is made up of 2 major parts:
+- HTML (HyperText Markup Language)
+- CSS (Cascading StyleSheet)
+
+Today, I'm happy to share that I've finished the first major part (HTML) AND I'm ready to start building the structure of the contents of websites. Yeah!!!
+
