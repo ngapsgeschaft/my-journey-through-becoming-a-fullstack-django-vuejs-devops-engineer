@@ -34,3 +34,14 @@ On June 12, 2026 I create a freeCodeCamp account with which I started the Respon
 
 Today, I'm happy to share that I've finished the first major part (HTML) AND I'm ready to start building the structure of the contents of websites. Yeah!!!
 
+## July 1, 2026
+
+### Hello, July
+Today, July 1st 2026, marks the start of 4 months of intense coding. I'm participating in two bootcamps:
+- FlutterFire Summer Camp 2026: For frontend development using Flutter
+- Orange Digital Center x Datacamp Dev Squad: For data engineering using Python
+
+Besides, I'm also doing a Responsive Web Design Certification from freeCodeCamp.org
+
+It's going to be a hot summer !!!!
+
