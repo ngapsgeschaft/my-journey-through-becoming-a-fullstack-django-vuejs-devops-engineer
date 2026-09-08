@@ -45,8 +45,16 @@ Besides, I'm also doing a Responsive Web Design Certification from freeCodeCamp.
 
 It's going to be a hot summer !!!!
 
-## September 07, 2026
+## September 7, 2026
 
-### School Resumption
+### School Year 2026-2027 Resumption
 School resumes nationwide in Cameroon. So is a new cycle of activities in tech communities.
 The first one of these is the upcoming AWS Student Community Day 2026 - IUSJC. It's taking place on September 12, 2026, this next Saturday. Registered, paid for my swags, and can't wait until I get there and get my swags in my hands, meeting new people.advance in my work.
+
+## September 8, 2026
+
+### 
+AWS Student Builder Community Day - Institut Universitaire Saint Jean (IUSJ) is on this Saturday September 12, 2026.
+Already registered.
+Bought my swags.
+Looking forward to renewing the AWS venture.
