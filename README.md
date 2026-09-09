@@ -58,3 +58,14 @@ AWS Student Builder Community Day - Institut Universitaire Saint Jean (IUSJ) is 
 Already registered.
 Bought my swags.
 Looking forward to renewing the AWS venture.
+
+## September 9, 2026
+
+### Restart
+At work, we've officially launched the new year cycle.
+I currently work as a Human Resources Assistant a non-profit organization in
+the education domain. The back-office team of which I'm a member had a 2026-2027
+launch meeting today. One thing I noticed during the discussion is that the work is
+still manually done. And that can get quickly overwhelming to get to generate an
+adhoc report requested first thing in the morning.
+This gave me more reasons to build apps to lift off the burden of daily manual work.
