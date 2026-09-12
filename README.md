@@ -69,3 +69,9 @@ launch meeting today. One thing I noticed during the discussion is that the work
 still manually done. And that can get quickly overwhelming to get to generate an
 adhoc report requested first thing in the morning.
 This gave me more reasons to build apps to lift off the burden of daily manual work.
+
+## September 12, 2026
+
+### AWS Student Community Day Cameroun 2026 - IUSJC
+
+Simply, AWSome 😎!
