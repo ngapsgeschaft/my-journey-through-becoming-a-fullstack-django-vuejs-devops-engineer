@@ -75,3 +75,7 @@ This gave me more reasons to build apps to lift off the burden of daily manual w
 ### AWS Student Community Day Cameroun 2026 - IUSJC
 
 Simply, AWSome 😎!
+
+## September 14, 2026
+
+### Overthinking...
