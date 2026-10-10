@@ -53,7 +53,7 @@ The first one of these is the upcoming AWS Student Community Day 2026 - IUSJC. I
 
 ## September 8, 2026
 
-### 
+### ...
 AWS Student Builder Community Day - Institut Universitaire Saint Jean (IUSJ) is on this Saturday September 12, 2026.
 Already registered.
 Bought my swags.
@@ -79,3 +79,19 @@ Simply, AWSome 😎!
 ## September 14, 2026
 
 ### Overthinking...
+
+## October 10, 2026
+
+### Pheww... :( Quite sad, but ...
+FlutterFire 2026 Bootcamp is over (The graduation ceremony was help earlier today).
+No graduation for me though. The guy couldn't run up to the finish line. He fell
+along the way and got stuck on the ground, sniffing the dirt like an addicted felon.
+
+AWS Community Builder program opens in 3 months roughly, as the LinkedIn AWS Developer
+account announced yesterday, giving some advices and tips on how to apply for the program
+in that time window. Possible? ...!
+
+ODC x DataCamp program ends exactly in two weeks time. How far with the targeted
+certifications?
+
+...
