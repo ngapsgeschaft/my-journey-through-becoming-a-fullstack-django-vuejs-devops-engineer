@@ -95,3 +95,7 @@ ODC x DataCamp program ends exactly in two weeks time. How far with the targeted
 certifications?
 
 ...
+
+## October 13, 2026
+
+### You Can't Fix What You Can't Face
